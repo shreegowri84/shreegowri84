@@ -1,4 +1,4 @@
-# Hi, I’m Shree Krishna 👋
+# Hi, I'm Shree Krishna 👋
 
 **Senior Automation Test Engineer • AI Enthusiast**
 
@@ -7,8 +7,8 @@ I design and deliver end‑to‑end testing solutions for mission‑critical rai
 ---
 
 ## 🚀 What I do
-- Lead and execute system and software testing for train control and rail operations software supporting mission‑critical services.  
-- Responsible for end‑to‑end testing: test strategy, automation, CI/CD pipeline integration, and release validation.  
+- Lead and execute system and software testing for train control and rail operations software supporting mission‑critical services.
+- Responsible for end‑to‑end testing: test strategy, automation, CI/CD pipeline integration, and release validation.
 - Build AI/ML experiments and prototype Gen‑AI and agentic AI systems using AWS and Azure AI/ML offerings to improve test automation and observability.
 
 Current: Senior Automation Testing Engineer — Hitachi Rail
@@ -16,50 +16,50 @@ Current: Senior Automation Testing Engineer — Hitachi Rail
 ---
 
 ## 💡 Top Skills
-- Languages: Python • JavaScript  
-- Cloud & AI/ML: AWS (primary), Azure (AI/ML services)  
-- Testing & Automation: Test automation frameworks, system/integration testing, end‑to‑end validation, CI/CD integration  
+- Languages: Python • JavaScript
+- Cloud & AI/ML: AWS (primary), Azure (AI/ML services)
+- Testing & Automation: Test automation frameworks, system/integration testing, end‑to‑end validation, CI/CD integration
 - Domains: Safety‑critical / mission‑critical systems, rail transportation
 
 ---
 
 ## 🔭 Focus areas
-- AI‑assisted test generation, autonomous test agents, and ML‑driven anomaly detection  
-- Scalable test automation on cloud platforms (AWS/Azure)  
+- AI‑assisted test generation, autonomous test agents, and ML‑driven anomaly detection
+- Scalable test automation on cloud platforms (AWS/Azure)
 - Improving reliability and observability for distributed rail systems
+- Exploring Amazon Bedrock and LangChain/LangGraph for agentic AI prototypes
 
 ---
 
 ## 🔧 How I work
-- Prefer pragmatic, automated, and observable testing approaches: small iterative releases, strong automation, and clear test reporting.  
-- Emphasize reproducibility: infrastructure as code, containerized tests, and pipeline automation.  
+- Prefer pragmatic, automated, and observable testing approaches: small iterative releases, strong automation, and clear test reporting.
+- Emphasize reproducibility: infrastructure as code, containerized tests, and pipeline automation.
 - Collaborate closely with product and engineering teams to align tests with operational safety and performance goals.
 
 ---
 
 ## 🔍 Selected projects
-(Share 3–6 favorite repos or projects and I’ll populate these with descriptions and links.)
+- **Automated Regression Test Harness** — A CI/CD-integrated test harness for validating system-level integrations, designed to catch regressions early in safety-critical release cycles.
+- **AI-Driven Test Case Prioritization** — Prototype using ML to rank test cases by likelihood of catching defects, aimed at reducing regression suite runtime without sacrificing coverage.
+- **Cloud-Native Test Orchestration** — Test orchestration built on AWS/Azure to run distributed test suites in parallel, with centralized reporting and observability.
 
-- Project A — Automated test harness for system integration (placeholder)  
-- Project B — AI‑driven test case prioritization (placeholder)  
-- Project C — Cloud-native test orchestration using AWS/Azure (placeholder)
 
 ---
 
 ## 🌱 Open source & contributions
-- I experiment with AI tools and share prototypes that accelerate test automation and observability.  
+- I experiment with AI tools and share prototypes that accelerate test automation and observability.
 - Happy to mentor and review contributions related to testing, CI/CD, and AI tooling.
 
 ---
 
 ## 📫 Connect
-(Please provide links you want published — email, website, LinkedIn, Twitter, Mastodon, etc.)
 - GitHub: https://github.com/shreegowri84
+- LinkedIn: www.linkedin.com/in/sreegowri-k-497483161
 
 ---
 
 ## 🎯 Fun facts
-- Domain: Rail transportation / safety‑critical systems  
+- Domain: Rail transportation / safety‑critical systems
 - Interests: Gen‑AI, agentic AI systems, cloud automation, mentoring
 
 ---
@@ -70,4 +70,4 @@ Current: Senior Automation Testing Engineer — Hitachi Rail
 
 ---
 
-Thanks for visiting — if you’re working on AI for testing, rail‑grade reliability, or cloud test orchestration, let’s connect!
+Thanks for visiting — if you're working on AI,rail road ATS software or AWS/Azure cloud, let's connect!
